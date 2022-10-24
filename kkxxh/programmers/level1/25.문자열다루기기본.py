@@ -1,4 +1,4 @@
-# 오류
+
 
 def solution(s):
     answer = True
