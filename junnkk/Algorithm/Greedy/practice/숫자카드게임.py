@@ -1,4 +1,4 @@
-# junnkk
+## junnkk
 n,m = map(int,input().split())
 num_list = []
 
@@ -15,7 +15,7 @@ print(max)
 
 
     
-# min() 함수 이용
+## min() 함수 이용
 n,m = map(int,input().split())
 result = 0
 
@@ -29,7 +29,7 @@ print(result)
 
 
 
-# 2중 반복문 구조 이용
+## 2중 반복문 구조 이용
 n,m = map(int,input().split())
 result = 0
 
