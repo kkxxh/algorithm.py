@@ -1,5 +1,14 @@
-
-
+## 꼭 필요한 자료구조 기초
+ #### 탐색 Search
+ ### 스택 Stack
+ ### 큐 Queue
+ ### 재귀 함수 Recursive Function
+## 탐색 알고리즘 DFS/BFS
+ #### 그래프의 기본 구조 및 표현 방식
+  ##### 인접 행렬(Adjacency Matrix)
+  ##### 인접 리스트(Adjacency List)
+ ### 깊이 우선 탐색 DFS(Depth-First Search)
+ ### 너비 우선 탐색 BFS(Breadth-First Search)
 ## 꼭 필요한 자료구조 기초
 
  #### 탐색 Search
