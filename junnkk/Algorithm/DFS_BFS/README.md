@@ -1,15 +1,4 @@
 ## 꼭 필요한 자료구조 기초
- #### 탐색 Search
- ### 스택 Stack
- ### 큐 Queue
- ### 재귀 함수 Recursive Function
-## 탐색 알고리즘 DFS/BFS
- #### 그래프의 기본 구조 및 표현 방식
-  ##### 인접 행렬(Adjacency Matrix)
-  ##### 인접 리스트(Adjacency List)
- ### 깊이 우선 탐색 DFS(Depth-First Search)
- ### 너비 우선 탐색 BFS(Breadth-First Search)
-## 꼭 필요한 자료구조 기초
 
  #### 탐색 Search
   : 많은 양의 데이터 중에서 원하는 데이터를 찾는 과정
@@ -58,7 +47,7 @@
   from collections import deque
   
   # 큐(Queue)는 구현을 위해 deque 라이브러리 사용
-  deque = deque()
+  queue  = deque()
   
   queue.append(5)
   queue.append(2)
